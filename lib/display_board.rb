@@ -1,3 +1,9 @@
 def display_board
-  puts "#{A Tic Tac Toe Board}"
+  puts "Welcome to Tic Tac Toe"
+  puts row = "   |   |   "
+  puts separator = "-----------"
+  puts row = "   |   |   "
+  puts separator = "-----------"
+  puts row = "   |   |   "
 end
+display_board
