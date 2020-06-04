@@ -4,7 +4,6 @@ def display_board
   puts separator = ["-----------"]
   puts row = ["   ""|""   ""|""   "]
   puts separator = ["-----------"]
-  puts row = ["   ""|""   ""|""   "]  
+  puts row = ["   ""|""   ""|""   "]
 end
 display_board
-
